@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{index.html}
+# {rodo1.jpg}{alt text}{265}{275}
+=Rodolfo Reyes-Baez
+
+~~~
+{}{img_left}{rodo1.JPG}{alt text}{265}{275}{https://junjiejiao.github.io/personal_website/}\n
+*Researcher and lecturer, FSE Fellow*\n\n
+[https://www.rug.nl/research/discrete-technology-production-automation/ Discrete Technology and Product Automation (DTPA)], \n 
+[https://www.rug.nl/research/enteg/ Engineering and Technology Institute Groningen (ENTEG)], \n
+[https://www.rug.nl/fse/ Faculty of Science and Engineering (FSE)], \n
+[http://www.rug.nl/ University of Groningen | Rijksuniversiteit Groningen (RuG)]\n\n
+Nijenborgh 4, Room 5117.0109 \n
+9747 AG, Groningen, The Netherlands \n 
+Phone: \+31 (0) 630 455 932 \n
+Email: r.reyes.baez@rug.nl | r.reyes-baez@ieee.org \n\n
+Member of the [https://jcwcenter.web.rug.nl/ Jan C.Willems Center of Systems and Control]
+~~~
+[https://www.rug.nl/staff/r.reyes.baez/ Official website at RuG]
+== Research Interests
+- Nonlinear systems and control design
+- Energy and data based modeling and control
+- Learning-based dynamics and control
+- Dyamics and control in robotics: rigid and soft
+- Applications: (bio,opto)-mechatronics, renewable energy and smart industry.
+- Engineering science education
+
+
+== News
+
+~~~
+{2020}
+- July : I have started as a Research Fellow at the Engineering and Technology Institute (ENTEG) of the [https://www.rug.nl/ *University of Groningen*].
+- June : Our paper [https://ieeexplore.ieee.org/abstract/document/9127509 "Contraction Based Nonlinear Controller for a Laser Beam Stabilization System using a Variable Gain"]  has been accepted for publication in the [http://ieee-cssletters.dei.unipd.it/index.php *IEEE Control Systems Letters (L-CSS)*]. 
+- Feb. : Our paper  [https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4929 "A family of virtual contraction based controllers for tracking  of  flexible-joints port-Hamiltonian robots: theory and experiments"] has been accepted in the [https://onlinelibrary.wiley.com/journal/10991239 *International Journal of Robust and Nonlinear Control*].
+~~~
+
+~~~
+{2019}
+- Nov. 7: I submitted a manuscript entitled "Distributed Linear Quadratic Tracking Control for Leader-Follower Multi-Agent Systems: A Suboptimality Approach" to the [https://www.ifac2020.org/ *21st IFAC World Congress 2020*]. \[[https://arxiv.org/abs/1911.11611 arXiv]\]
+
+
+~~~

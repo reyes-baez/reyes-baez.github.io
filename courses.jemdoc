@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{courses.html}
+=Courses
+
+
+~~~
+{2016}
+- Nov. 7 - Nov. 28: *Linear Matrix Inequalities for Control* (Lecturers: [https://www.tue.nl/en/university/departments/electrical-engineering/department/staff/detail/ep/e/d/ep-uid/19920358/ Siep Weiland] and [https://www.tue.nl/en/university/departments/electrical-engineering/department/staff/detail/ep/e/d/ep-uid/20116363/ Roland Toth])
+- Nov. 7 - Nov. 28: *Computational Linear Algebra: a least squares perspective* (Lecturers: [http://www.bartdemoor.be/ Bart De Moor] and [http://www.dcsc.tudelft.nl/~mverhaegen/ Michel Verhaegen])
+~~~
+
+~~~
+{2017}
+- Jan. 16 - Mar. 6: *Mathematical Models of Systems* (Lecturers: [http://wwwhome.math.utwente.nl/~poldermanjw/ Jan Willem Polderman] and [http://www.math.rug.nl/~kanat/ Kanat Camlibel])
+- Jan. 16 - Feb. 6: *Modeling and Control of Hybrid Systems* (Lecturers: [http://www.dcsc.tudelft.nl/~bdeschutter/ Bart De Schutter] and [https://heemels.tue.nl/ Maurice Heemels])
+- Feb. 13 - Mar. 6: *Nonlinear Control Systems* (Lecturers: [http://www.rug.nl/staff/b.jayawardhana/ Bayu Jayawardhana] and [http://www.rug.nl/staff/b.besselink/research Bart Besselink])
+- Mar. 20 - May 15: *Design Methods for Control Systems* (Lecturers: [https://steinbuch.wordpress.com/ Maarten Steinbuch] and [http://wwwhome.math.utwente.nl/~meinsmag/ Gjerrit Meinsma])
+~~~
