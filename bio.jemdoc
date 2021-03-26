@@ -1,11 +1,11 @@
 # jemdoc: menu{MENU}{bio.html}
-== Junjie's Biography
+# {rodo1.JPG}{alt text}{265}{275}
+=Biography
 
-- Since October 2016, I have been a PhD student at the [http://www.rug.nl/ University of Groningen], Groningen, the Netherlands, working with [http://www.math.rug.nl/~trentelman/ Prof. Harry L. Trentelman] and [http://www.math.rug.nl/~kanat/ Prof. M. Kanat Camlibel].\n
-
-
-- I received the M.Eng. degree in Control Science and Engineering from [http://en.uestc.edu.cn/ University of Electronic Science and Technology of China], Chengdu, in 2016.\n
-
-- I received the B.Eng. degree in Automation from [http://en.ahut.edu.cn/ Anhui University of Technology], Anhui, in 2013.\n
-
-- I was born in July 1993, in [https://en.wikipedia.org/wiki/Lu%27an Lu'an], Anhui, China.
+~~~
+{}{img_left}{rodo1.jpg}{alt text}{265}{275}{https://reyes-baez.github.io//personal_website/}\n
+== Bio Sketch
+\n
+Rodolfo Reyes-Baez was born in Puebla Mexico, 29-02-1988. He receibed the B.Sc. degree in Mechatronics Engineering from the Meritorious Autonomous University of Puebla (BUAP), Puebla, Mexico, in 2011; the M.Sc. in Electrical Engineering (Mechatronics) from the Center for Research and Advanced Studies (CINVESTAV), Mexico City, Mexico, in 2014; and the Ph.D. degree in Applied Mathematics (Systems and Control) from the University of Groningen, Groningen, The Netherlands, in 2019. \n
+He was a control engineer of wind energy systems with the  Netherlands Organization for Applied Scientific Research (TNO), Petten, The Netherlands; from Jan. 2019 to Jul. 2020. He received the Roberto Rocca fellowship Doctorate Awardee in 2018.\n
+Since July 2020, he is a research and teaching fellow at the Faculty of Science and Engineering of the Univeristy of Groningen. His current research interests include nonlinear  control, energy-based modeling and control, incremental methods in control, learning-based dynamics and control, with applications in robotics and mechatronics.
