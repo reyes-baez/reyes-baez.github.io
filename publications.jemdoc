@@ -1,22 +1,56 @@
 # jemdoc: menu{MENU}{publications.html}
 =Publications
-
-~~~
-{Submitted Papers}
-. a
-. b
-. b
-~~~
-
-~~~
-{Journal Papers}
-. *Rodolfo Reyes-Baez*, Arjan van der Schaft and Bayu Jayawardhana, "[https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4929 A family of virtual contraction based controllers for tracking of flexible?joints port\?Hamiltonian robots: Theory and experiments]",  /*International Journal of Robust and Nonlinear Control*/, 2020.
-. b
-~~~
-
-~~~
-{Conference Papers}
-. a
-~~~
+ 
 
 See also [https://scholar.google.com/citations?user=klaapngAAAAJ&hl=en My Google Scholar].
+
+
+== Submitted Papers 
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft, Bayu Jayawardhana, [https://www.researchgate.net/publication/342397310_Virtual_contraction_based_control_of_fully-actuated_mechanical_systems_in_the_port-Hamiltonian_framework "Virtual contraction based control of fully-actuated 
+mechanical systems in the port-Hamiltonian framework"] Under review, 2021.
+
+
+== Journal Papers
+. Hao Yin, Bayu Jayawardhana, *Rodolfo Reyes-B{{&aacute;}}ez*, [https://research.rug.nl/en/publications/pinning-synchronization-of-heterogeneous-multi-agent-nonlinear-sy "Pinning synchronization of heterogeneous multi-agent nonlinear systems via contraction analysis"],  [http://ieee-cssletters.dei.unipd.it/index.php *IEEE Control Systems Letters (L-CSS)*], 2021.
+. Lorenzo L. Gonz{{&aacute;}}lez-Romero, *Rodolfo Reyes-B{{&aacute;}}ez*, J. Fermi Guerrero-Castellanos,  Bayu, Jayawardhana, Jaime J. Cid-Monjar{{&aacute;}}z, Olga F{{&eacute;}}lix-Beltr{{&aacute;}}n,  [https://research.rug.nl/en/publications/contraction-based-nonlinear-controller-for-a-laser-beam-stabiliza "Contraction Based Nonlinear Controller  for a Laser Beam Stabilization System using a Variable Gain"],  [http://ieee-cssletters.dei.unipd.it/index.php *IEEE Control Systems Letters (L-CSS)*], 2021, 5(3), pp. 761\-766, 9127509
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft, Bayu Jayawardhana and Le Pan, [https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4929 "A family of virtual contraction based controllers for tracking  of  flexible-joints port-Hamiltonian robots: theory and experiments"],  [https://onlinelibrary.wiley.com/journal/10991239 *International Journal of Robust and Nonlinear Control*], 2020, 30(8), pp. 3269\-3295. \[[https://arxiv.org/abs/2002.01542 Preprint]\]
+ 
+
+== Conference Papers
+. Wouter P. Engels, Daan van der  Hoek, Wei Yu,  *Rodolfo Reyes-B{{&aacute;}}ez*, [https://iopscience.iop.org/article/10.1088/1742-6596/1618/2/022064 "Scheduled state feedback control of a wind turbine"], [https://www.torque2020.org/ *Torque 2020*], [https://iopscience.iop.org/journal/1742-6596 *Journal of Physics: Conference Series*],  2020, 1618(2), 022064
+
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Pablo Borja, Arjan van der Schaft and Bayu Jayawardhana [http://www.amca.mx/RevistaDigital/cnca2019/files/0024.pdf "Virtual mechanical systems: An energy-based approach"], In proceedings [http://www.amca.mx/RevistaDigital/cnca2019/cnca2019.html *AMCA National Congress of Automatic Control*], Puebla, Mexico, 2019, (pp. 465-470)-  (Memorias del Congreso Nacional de Control Autom{{&aacute;}}tico). [http://www.amca.mx/ Asociaci{{&oacute;}}n de M{{&eacute;}}xico de Control Autom{{&aacute;}}tico A.C. (AMCA)]
+
+. J. Domingo P{{&aacute;}}jaro-Adri{{&aacute;}}n, *Rodolfo Reyes-B{{&aacute;}}ez*, Jaime J. Cid-Monjar{{&aacute;}}z, Fernando Reyes-Cort{{&eacute;}}s, [http://www.amca.mx/RevistaDigital/cnca2019/bloque2.html "Evaluaci{{&oacute;}}n Experimental del desempe{{&ntilde;}}o de un controlador basado en pasividad de un robot manipulador"], In proceedings [http://www.amca.mx/RevistaDigital/cnca2019/cnca2019.html *AMCA National Congress of Automatic Control*], Puebla, Mexico, 2019, (pp. 310-315)-  (Memorias del Congreso Nacional de Control Autom{{&aacute;}}tico). [http://www.amca.mx/ Asociaci{{&oacute;}}n de M{{&eacute;}}xico de Control Autom{{&aacute;}}tico A.C. (AMCA)]
+
+. Lorenzo L. Gonz{{&aacute;}}lez-Romero, *Rodolfo Reyes-B{{&aacute;}}ez*,  Jaime J. Cid-Monjar{{&aacute;}}z, Olga F{{&eacute;}}lix-Beltr{{&aacute;}}n, [https://www.researchgate.net/publication/342664747_Analisis_de_contraccion_de_un_controlador_de_ganancias_variables_el_caso_del_pendulo  "An{{&aacute;}}lisis de contracci{{&oacute;}}n de un controlador de ganancias variables: el caso del p{{&eacute;}}ndulo"], In proceedings [http://comrob.org/2019/ *XXI Mexican Congress of Robotics*], Manzanillo, Colima, M{{&eacute;}}xico, 2019. - ( Memorias del  XXI Congreso Mexicano de Rob{{&oacute;}}tica (COMRob)). [http://www.amrob.org/ Asociaci{{&oacute;}}n Mexicana de Rob{{&oacute;}}tica e Industria A.C.]
+
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Alejandro Donaire, Arjan van der Schaft,  Bayu Jayawardhana and Trist{{&aacute;}}n P{{&eacute;}}rez, [https://ieeexplore.ieee.org/document/8796246 "Tracking control of marine craft in the port-Hamiltonian framework: A virtual differential passivity approach"], [https://ecc19.eu/ *$18^{th}$ European Control Conference, ECC 2019*], Naples, Italy, 2019, pp. 1636\-1641, 8796246. \[[https://arxiv.org/pdf/1803.07938.pdf Preprint]\]
+
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft and Bayu Jayawardhana, [https://www.sciencedirect.com/science/article/pii/S2405896318335560 "Passivity based distributed tracking control of networked Euler-Lagrange systems"],  In K. Camlibel, & H. Shim (Eds.), [https://fwn06.housing.rug.nl/necsys2018/ *$7^{th}$ IFAC Workshop on Distributed Estimation and Control in Networked Systems*], Groningen, The Netherlands, 2018. IFAC - Papers OnLine, Vol. 51, Issue 23, pp. 136-141. \[[https://arxiv.org/pdf/1803.07938.pdf Preprint]\]
+
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft and Bayu Jayawardhana, [https://www.sciencedirect.com/science/article/pii/S2405896318303409?via%3Dihub "Virtual Differential Passivity Based Control for Tracking of Flexible-Joints Robots"], In H. Ram{{&iacute;}}rez (Ed.), Proceedings of the [http://www.lhmnlc18.org/ *$6^{th}$ IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control - LHMNC*], Valparaiso, Chile, 2018. IFAC - Papers OnLine, Vol. 51, Issue 3, pp. 169-174. \[[https://arxiv.org/pdf/1710.11078v3.pdf Preprint]\]
+
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft and Bayu Jayawardhana, [https://www.sciencedirect.com/science/article/pii/S2405896317319377 "Tracking Control of Fully-actuated port-Hamiltonian Mechanical Systems via Sliding Manifolds and Contraction Analysis"], [https://www.ifac2017.org/ *20th IFAC World Congress*], Tolouse, France, 2017. IFAC - Papers OnLine, Vol. 50, Issue 1, pp. 8256-8261. \[[https://arxiv.org/pdf/1611.07302.pdf Preprint]\]
+
+. Frida G. Rojas-Contreras, *Rodolfo Reyes B{{&aacute;}}ez*, Leonardo J. Ferrer-Garc{{&iacute;}}a, Sergio Romero-Hern{{&aacute;}}ndez, Ad{{&aacute;}}n Ram{{&iacute;}}rez-L{{&oacute;}}pez, Edwin Rosario-Gabriel, [https://www.researchgate.net/publication/298341144_Control_por_Retroalimentacion_de_Salida_de_un_Sistema_de_Levitacion_de_Aire "Control por retroalimentaci{{&oacute;}}n de salida de un sistema de levitaci{{&oacute;}}n de aire"], In Proceesings of [https://sites.google.com/a/unilibrebog.edu.co/boletin-ingenieriaindustrialviveindustrial/home/eventos/12congresointeramericanodecomputacionaplicadaalaindustriadeprocesoscaip2015 *$12^{th}$ Interamerican Congress of Applied Computing to Process Industry (CAIP)*], Cartagena de Indias, Colombia, 2015, ISBN: 978-958-8791-82-1.  - (12$^{\circ}$ Congreso  Interamericano de Computaci{{&oacute;}}n Aplicado a la Industria de Procesos (CAIP)) 
+
+. *Rodolfo Reyes B{{&aacute;}}ez*, Iv{{&aacute;}}n Estrada-S{{&aacute;}}nchez, Mart{{&iacute;}}n Velasco Villa, V{{&iacute;}}ctor Cruz-Morales, Hugo Rodr{{&iacute;}}guez-Cort{{&eacute;}}s, [https://www.researchgate.net/publication/266080465_Robust_Linear_Velocity_Control_of_a_Car-Like_Mobile_Robot_for_Outdoor_Applications "Robust Linear Velocity Control of a Car-Like Mobile Robot for Outdoor Applications"], In proceedings [http://www.amca.mx/RevistaDigital/cnca2019/cnca2019.html *AMCA National Congress of Automatic Control*], Canc{{&uacute;}}n, Mexico, 2014, (pp. 624-629)-  (Memorias del Congreso Nacional de Control Autom{{&aacute;}}tico). [http://www.amca.mx/ Asociaci{{&oacute;}}n de M{{&eacute;}}xico de Control Autom{{&aacute;}}tico A.C. (AMCA)]
+
+. *Rodolfo Reyes B{{&aacute;}}ez*, Mart{{&iacute;}}n Velasco Villa, Hugo Rodr{{&iacute;}}guez-Cort{{&eacute;}}s, [https://www.researchgate.net/publication/255785575_Nonlinear_Maneuvering_Control_Design_for_a_Wheeled_Mobile_Robot_of_type_20 "Nonlinear Maneuvering Control Design for a Wheeled Mobile Robot of type (2,0)"],In proceedings [http://www.amca.mx/RevistaDigital/cnca2019/cnca2019.html *AMCA National Congress of Automatic Control*], Ensenada, Baja California, Mexico, 2013, (pp. 753-758)-  (Memorias del Congreso Nacional de Control Autom{{&aacute;}}tico). [http://www.amca.mx/ Asociaci{{&oacute;}}n de M{{&eacute;}}xico de Control Autom{{&aacute;}}tico A.C. (AMCA)]
+
+
+== Conferences with Published Abstracts-Posters-Presentations
+. *Rodolfo Reyes B{{&aacute;}}ez*, Stoyan Kanev, [https://drive.google.com/file/d/16WT06p_c5WY-BA6TsFJQZQZa-96Lwb0x/view?usp=sharing  "Wind farm power gain maximization via combined yaw and pitch based active wake control"], [http://www.clwindcon.eu/wese2019/ *$5^{th}$ Wind Energy Systems Engineering Workshop (WESE 2019)*], Pamplona, Spain, 2019.
+
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft and Bayu Jayawardhana, [https://www.beneluxmeeting.nl/2018/uploads/papers/boa.pdf "Virtual differential passivity based control of mechanical systems in the port-Hamiltonian framework"], Abstract from [https://www.beneluxmeeting.nl/2018/ *$37^{th}$ Benelux Meeting on Systems and Control*], Soestergerg, The Nethelands, 2018.
+
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft and Bayu Jayawardhana, [https://www.beneluxmeeting.nl/2017/uploads/boaComplet.pdf "The partial contraction approach for convergence analysis in the tracking control of mechanical port-Hamiltonian systems"], Abstract from [https://www.beneluxmeeting.nl/2017/ *$36^{th}$ Benelux Meeting on Systems and Control*], Spa, Belgium, 2017.
+
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft and Bayu Jayawardhana, [https://www.beneluxmeeting.nl/2016/uploads/papers/boa.pdf  "Contraction-based Control Design for Physical Systems"], Abstract from [https://www.beneluxmeeting.nl/2016/ *$35^{th}$ Benelux Meeting on Systems and Control*], Soestergerg, The Nethelands, 2016.
+
+
+== Theses
+- *Rodolfo Reyes-B{{&aacute;}}ez*, [https://doi.org/10.33612/diss.96171118 " Virtual Contraction and Passivity based Control of Nonlinear Mechanical Systems:  Trajectory Tracking and Group Coordination"], Ph.D. thesis, University of Groningen, September $13^{th}$, 2019, Groningen, The Netherlands.
+
+- *Rodolfo Reyes-B{{&aacute;}}ez*, [http://sb3.csb.cinvestav.mx/uhtbin/cgisirsi/?ps=sSzcYQ80UD/CENTRAL/26370133/123 "Motion control design for a nonholonomic wheeled mobile robot of type (2,0): a maneuvering control approach (in spanish) "], Master thesis, February $21^{st}$, 2014, Mexico City, Mexico.
