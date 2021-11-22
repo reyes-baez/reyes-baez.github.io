@@ -3,12 +3,13 @@
 =Rodolfo Reyes-B{{&aacute;}}ez
 
 ~~~
-{}{img_left}{rodo1.jpg}{alt text}{265}{275}{https://reyes-baez.github.io//personal_website/}\n
+{}{img_left}{rodo1.jpg}{alt text}{270}{280}{https://reyes-baez.github.io}\n\n
+*Research and teaching FSE fellow*\n
 [https://jcwcenter.web.rug.nl/ Jan C.Willems Center of Systems and Control]\n
-[https://www.rug.nl/research/enteg/ Engineering and Technology Institute Groningen (ENTEG)], \n\n
-[https://www.rug.nl/research/discrete-technology-production-automation/ Discrete Technology and Product Automation (DTPA)], \n 
-[https://www.rug.nl/fse/ Faculty of Science and Engineering (FSE)], \n
-[http://www.rug.nl/ University of Groningen | Rijksuniversiteit Groningen (RuG)]\n
+[https://www.rug.nl/research/enteg/ Engineering and Technology Institute Groningen (ENTEG)] \n\n
+[https://www.rug.nl/research/discrete-technology-production-automation/ Discrete Technology and Product Automation (DTPA)] \n 
+[https://www.rug.nl/fse/ Faculty of Science and Engineering (FSE)] \n
+[http://www.rug.nl/ University of Groningen | Rijksuniversiteit Groningen (RuG)]
 === Contact
 Nijenborgh 4, Room 5117.0109 \n
 9747 AG, Groningen, The Netherlands \n 
@@ -16,19 +17,19 @@ Phone: \+31 (0) 630 455 932 \n
 Email: r.reyes.baez@rug.nl | r.reyes-baez@ieee.org \n
 [https://www.rug.nl/staff/r.reyes.baez/ Official website at RuG]
 ~~~
-\n\n
-I am an FSE Fellow (70\% research and 30\% teaching) at the Faculty of Science and Engineering (FSE) of the University of Groningen.
+
+
+#A coment about my name. In hispanic names, we get two last-names. The first is my father's and the second my mother's. Hence, First name: Rodolfo, Surname: Reyes B{{&aacute;}}ez. 
 
 == Research Interests
 - Nonlinear systems and control: 
--- Lyapunov and incremental methods, virtual systems, passivity-based control, coordination control, geometric methods
+-- Lyapunov, incremental stability and passivity techniques in nonlinear control;  nonlinear control methods; coordination control.
 - Energy-based modeling and control:
--- Euler-Lagrange systems, port-Hamiltonian systems, energy-shaping, interpretable data and learning based control
-- Dyamics and control in robotics:
--- Motion control (set-point, tracking, path-following), mobile robots, dynamics and control of soft robots
+-- Euler-Lagrange systems; port-Hamiltonian systems; energy-shaping; interpretable data and learning based control
+- Robotics and mechatronics:
+-- Servo-systems; motion control of robots (set-point, tracking, path-following); dynamics and control of soft robots
 - Applications: 
--- Mechatronics: servo-systems, opto-mechatronics, bio-mechatronics, concurrent design
--- Renewable energy: wind energy systems, wind power networks and ancillary services for grid support
+-- Opto-mechatronics, biomedical engineering,  wind energy systems 
 - Engineering science education: hybrid traditional-constructive teaching, online education of experimental subjects
 
 
