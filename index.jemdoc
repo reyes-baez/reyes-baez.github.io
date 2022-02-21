@@ -1,15 +1,19 @@
 # jemdoc: menu{MENU}{index.html}
 # {rodo1.JPG}{alt text}{265}{275}
-=Rodolfo Reyes-B{{&aacute;}}ez
+=Rodolfo REYES-B{{&Aacute;}}EZ
 
 ~~~
-{}{img_left}{rodo1.jpg}{alt text}{270}{280}{https://reyes-baez.github.io}\n\n
-*Research and teaching FSE fellow*\n
-[https://jcwcenter.web.rug.nl/ Jan C.Willems Center of Systems and Control]\n
-[https://www.rug.nl/research/enteg/ Engineering and Technology Institute Groningen (ENTEG)] \n\n
-[https://www.rug.nl/research/discrete-technology-production-automation/ Discrete Technology and Product Automation (DTPA)] \n 
+{}{img_left}{yo-defensa.jpg}{alt text}{230}{280}{https://reyes-baez.github.io}\n
+#*Research and teaching FSE fellow*\n
+[http://www.rug.nl/ University of Groningen | Rijksuniversiteit Groningen (RuG)]\n
 [https://www.rug.nl/fse/ Faculty of Science and Engineering (FSE)] \n
-[http://www.rug.nl/ University of Groningen | Rijksuniversiteit Groningen (RuG)]
+Affiliation\n
+[https://www.rug.nl/research/discrete-technology-production-automation/ Discrete Technology and Product Automation (DTPA)] \n 
+[https://www.rug.nl/research/enteg/ Engineering and Technology Institute Groningen (ENTEG)] \n
+Member of\n
+[https://jcwcenter.web.rug.nl/ Jan C.Willems Center of Systems and Control]\n
+[https://www.rug.nl/research/fse/themes/dssc/?lang=en/ Data Science & Systems Complexity (DSSC)]
+
 === Contact
 Nijenborgh 4, Room 5117.0109 \n
 9747 AG, Groningen, The Netherlands \n 
@@ -18,22 +22,31 @@ Email: r.reyes.baez@rug.nl | r.reyes-baez@ieee.org \n
 [https://www.rug.nl/staff/r.reyes.baez/ Official website at RuG]
 ~~~
 
+I am a Research and Teaching [https://www.rug.nl/fse/ FSE]  fellow at the [http://www.rug.nl/ RuG]\.  
 
-#A coment about my name. In hispanic names, we get two last-names. The first is my father's and the second my mother's. Hence, First name: Rodolfo, Surname: Reyes B{{&aacute;}}ez. 
+
 
 == Research Interests
-- Nonlinear systems and control: 
--- Lyapunov, incremental stability and passivity techniques in nonlinear control;  nonlinear control methods; coordination control.
-- Energy-based modeling and control:
--- Euler-Lagrange systems; port-Hamiltonian systems; energy-shaping; interpretable data and learning based control
-- Robotics and mechatronics:
--- Servo-systems; motion control of robots (set-point, tracking, path-following); dynamics and control of soft robots
-- Applications: 
--- Opto-mechatronics, biomedical engineering,  wind energy systems 
-- Engineering science education: hybrid traditional-constructive teaching, online education of experimental subjects
+I am mainly interested in the theory, engineering, technology and education of *systems and control*, with an emphasis on applications in modern technology.\n\n
+ Specifically:\n
+- Lyapunov, contractivity and passivity techniques in control of nonlinear systems
+- Lagranian and port-Hamiltonian methods for modeling and control of physcal systems and networks
+- Learning for dynamics and control: control-informed NNs, iterative learning
+- Robotics and mechatronics: motion control of rigid and soft robots, high-precision control
+- Applications: opto-mechatronics, biomedical engineering,  wind energy systems, smart industry\n
+
+#- Education of engineering science: hybrid traditional-constructive teaching, online education of experimental subjects
 
 
 == News
+
+~~~
+{2022}
+
+- Feb : Our paper "Virtual contractivity-based control of fully-actuated mechanical systems in the port-Hamiltonian framework" has been accepted for publication in [https://www.journals.elsevier.com/automatica *Automatica*] as a brief paper.
+- Our abstract "Virtual systems in nonlinear control design" has been accepted for presentation at the [https://www.beneluxmeeting.nl/2022/ *$41^{st}$ Benelux Meeting on Systems and Control*] to be cellebrated in Brussels on July 2022.
+~~~
+
 ~~~
 {2021}
 
@@ -54,7 +67,7 @@ Email: r.reyes.baez@rug.nl | r.reyes-baez@ieee.org \n
 - Dec. : Abstract on extended Kalman filter and machine learning for wind turbine control submitted to [https://www.torque2020.org/ *Torque 2020*]. Joint work with TNO Wind Energy colleagues.
 - Oct. : I have attented to the [http://www.ece.buap.mx/cnca2019/ *National Automatic Control Conference (CNCA)*] organized by the [http://www.amca.mx/ Mexico Association of Automatic Control (AMCA]) at, my alma mater, the [https://www.buap.mx/ Mertorious Autonomous University of Puebla (BUAP)], in Puebla City, Mexico. 
 - Oct. : I have attended to the last meeting of the [http://www.clwindcon.eu/ *Closed Loop Windcon*] project in Pamplona Spain. As follow up to this event, in the same location, I also presented a poster on wind farm control during the [https://www.nrel.gov/wind/systems-engineering-workshop-2019.html *$5^{th}$ Wind Energy Systems Engineering Workshop (WESE 2019)*].
-- Sep. : I have defended my [https://research.rug.nl/nl/publications/virtual-contraction-and-passivity-based-control-of-nonlinear-mech *PhD thesis*] on the Friday $13^{th}$! \[[https://www.linkedin.com/in/rreyesbaez/detail/treasury/education:257617496/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAAYrd-oB-UKWCGo0PPn_A168_NkjiQJXiD8%2C1615418273701)&section=education%3A257617496&treasuryCount=2 Photo]\].
+- Sep. : I have defended my [https://research.rug.nl/nl/publications/virtual-contraction-and-passivity-based-control-of-nonlinear-mech *PhD thesis*] on the Friday $13^{th}$! \[[https://www.linkedin.com/in/rreyesbaez/overlay/education/257617496/multiple-media-viewer/?treasuryMediaId=1615418273701 Photo]\].
 - Jun. : I have attended to [https://ecc19.eu/ *European Control Conference (ECC19)*], in Naples, Italy.
 - Jan. : I have started as jr. researcher in control engineering of wind energy systems at [https://www.tno.nl/en/focus-areas/energy-transition/expertise/wind-energy/ *TNO Wind Energy*], in Petten,  The Netherlands. 
 ~~~

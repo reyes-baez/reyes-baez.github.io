@@ -8,17 +8,18 @@ See also: [https://scholar.google.com/citations?user=klaapngAAAAJ&hl=en Google S
 
 == Submitted Papers 
 . Lorenzo L. Gonz{{&aacute;}}lez-Romero, *Rodolfo Reyes-B{{&aacute;}}ez*, J. Fermi Guerrero-Castellanos,  Bayu, Jayawardhana, "Design and Experimental Evaluation of a Contractivity-based Dynamic Variable Gain Controller for a Laser Beam Stabilization System", submitted, April 2021
-. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft, Bayu Jayawardhana, [https://www.researchgate.net/publication/342397310_Virtual_contraction_based_control_of_fully-actuated_mechanical_systems_in_the_port-Hamiltonian_framework "Virtual contraction based control of fully-actuated 
-mechanical systems in the port-Hamiltonian framework"] Under review, March 2021.
+. Santiago Sanchez-Escalonilla, *Rodolfo Reyes-B{{&aacute;}}ez*, Bayu Jayawardhana, "Total Energy Shaping with Neural Interconnection and Damping Assignment - Passivity Based Control", submitted, November 2021
 
 
 == Journal Papers
+. *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft, Bayu Jayawardhana, "Virtual contractivity-based control of fully-actuated mechanical systems in the port-Hamiltonian framework", [https://www.journals.elsevier.com/automatica *Automatica*], Accepted, 2022. \[[https://www.researchgate.net/publication/342397310_Virtual_contractivity-based_control_of_fully-actuated_mechanical_systems_in_the_port-Hamiltonian_framework Preprint]\]
 . Hao Yin, Bayu Jayawardhana, *Rodolfo Reyes-B{{&aacute;}}ez*, [https://research.rug.nl/en/publications/pinning-synchronization-of-heterogeneous-multi-agent-nonlinear-sy "Pinning synchronization of heterogeneous multi-agent nonlinear systems via contraction analysis"],  [http://ieee-cssletters.dei.unipd.it/index.php *IEEE Control Systems Letters (L-CSS)*], 2021.
 . Lorenzo L. Gonz{{&aacute;}}lez-Romero, *Rodolfo Reyes-B{{&aacute;}}ez*, J. Fermi Guerrero-Castellanos,  Bayu, Jayawardhana, Jaime J. Cid-Monjar{{&aacute;}}z, Olga F{{&eacute;}}lix-Beltr{{&aacute;}}n,  [https://research.rug.nl/en/publications/contraction-based-nonlinear-controller-for-a-laser-beam-stabiliza "Contraction Based Nonlinear Controller  for a Laser Beam Stabilization System using a Variable Gain"],  [http://ieee-cssletters.dei.unipd.it/index.php *IEEE Control Systems Letters (L-CSS)*], 2021, 5(3), pp. 761\-766, 9127509
 . *Rodolfo Reyes-B{{&aacute;}}ez*, Arjan van der Schaft, Bayu Jayawardhana and Le Pan, [https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.4929 "A family of virtual contraction based controllers for tracking  of  flexible-joints port-Hamiltonian robots: theory and experiments"],  [https://onlinelibrary.wiley.com/journal/10991239 *International Journal of Robust and Nonlinear Control*], 2020, 30(8), pp. 3269\-3295. \[[https://arxiv.org/abs/2002.01542 Preprint]\]
  
 
 == Conference Papers
+. Lorenzo L. Gonz{{&aacute;}}lez-Romero, *Rodolfo Reyes-B{{&aacute;}}ez*, J. Fermi Guerrero-Castellanos,  Bayu, Jayawardhana, Jaime J. Cid-Monjar{{&aacute;}}z, Olga F{{&eacute;}}lix-Beltr{{&aacute;}}n, "Contraction Based Nonlinear Controller  for a Laser Beam Stabilization System using a Variable Gain" [https://cdc2020.ieeecss.org/ *$59^{th}$ Conference on Decision and Control*], Republic of Korea (Virtual)
 . Wouter P. Engels, Daan van der  Hoek, Wei Yu,  *Rodolfo Reyes-B{{&aacute;}}ez*, [https://iopscience.iop.org/article/10.1088/1742-6596/1618/2/022064 "Scheduled state feedback control of a wind turbine"], [https://www.torque2020.org/ *Torque 2020*], [https://iopscience.iop.org/journal/1742-6596 *Journal of Physics: Conference Series*],  2020, 1618(2), 022064
 
 . *Rodolfo Reyes-B{{&aacute;}}ez*, Pablo Borja, Arjan van der Schaft and Bayu Jayawardhana [http://www.amca.mx/RevistaDigital/cnca2019/files/0024.pdf "Virtual mechanical systems: An energy-based approach"], In proceedings [http://www.amca.mx/RevistaDigital/cnca2019/cnca2019.html *AMCA National Congress of Automatic Control*], Puebla, Mexico, 2019, (pp. 465-470)-  (Memorias del Congreso Nacional de Control Autom{{&aacute;}}tico). [http://www.amca.mx/ Asociaci{{&oacute;}}n de M{{&eacute;}}xico de Control Autom{{&aacute;}}tico A.C. (AMCA)]
